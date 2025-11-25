@@ -1,0 +1,7 @@
+ PREDICTED NUT → Macademia
+ CONFIDENCE    → 67.65%
+ TOP 3 PREDICTIONS:
+  1. Macademia             67.65%  ██████████████████████
+  2. Peanut                13.14%  ████
+  3. Almond                 5.82%  █
+Doubtful — maybe first one is correct!
