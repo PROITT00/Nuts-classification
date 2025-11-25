@@ -1,4 +1,4 @@
-#**Multiclass Nuts Classification using custom CNN and Transfer learning**
+#__**Multiclass Nuts Classification using custom CNN and Transfer learning**__
 
 This project focuses on image classification of different types of nuts using deep learning.
 
